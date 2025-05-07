@@ -29,7 +29,7 @@ This document outlines the topic modeling workflow and interactive visualization
 
 ## Viewing the Visualization
 
-Open `LDA_Vis.html` in your web browser to explore:
+Open `LDA_Vis.html` in web browser to explore:
 
 * **Inter-topic distances**: plotted via multidimensional scaling on principal components.
 * **Term relevance**: tune the relevance metric λ to inspect top terms per topic.
